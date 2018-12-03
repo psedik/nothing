@@ -16,3 +16,4 @@ python3 nothing/manage.py
 ## Run unittests
 
 python3 -m unittest discover
+ses.pu
